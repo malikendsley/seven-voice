@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Generated audio
+renders/
+*_seven.wav
+
+# Personal recordings and game audio: keep these local, do not commit
+me/
+reference/
