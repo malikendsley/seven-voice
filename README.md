@@ -1,4 +1,4 @@
-Slop coded voice mod to make you sound like seven from deadlock
+Slop coded voice mod to make you sound like seven from deadlock. i promise it doesn't phone home to russia or something
 
 ###needs
 
